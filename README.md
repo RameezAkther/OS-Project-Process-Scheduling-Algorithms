@@ -1,6 +1,6 @@
 # OS-Project-Process-Scheduling-Algorithms
 This repo consists of Process Scheduling algorithms in C language and it's documentation
-Implemented Algorithms:<br>
+<br>Implemented Algorithms:<br>
 1. FCFS (First Come First Serve)
 2. SJF (Shortest Job First)
 3. SRTF (Shortest Remaining Time First)
